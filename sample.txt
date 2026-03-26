@@ -1,0 +1,4 @@
+Hello! My name is Mary and I a 14 years old. 
+ I am a student at ABC High School. 
+ I love to play soccer and read books. 
+ I am currently learning how to code on python
